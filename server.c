@@ -1,3 +1,4 @@
+//The server and client code is taken from the The Definitive Guide to Linux Network Programming (Authors: Keir Davis, John W. Turner, and Nathan Yocom) book. 
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
